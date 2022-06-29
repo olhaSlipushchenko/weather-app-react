@@ -19,7 +19,11 @@ export default function App() {
             olha S
           </a>{" "}
           and is{" "}
-          <a href="#" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/olhaSlipushchenko/weather-app-react.git"
+            target="_blank"
+            rel="noreferrer"
+          >
             open sourced on Git Hub
           </a>
           .
